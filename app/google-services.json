@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414987561319",
+    "project_id": "reclami-adff9",
+    "storage_bucket": "reclami-adff9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414987561319:android:fc6607544a1d6f2e3067c2",
+        "android_client_info": {
+          "package_name": "com.example.reclami"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414987561319-c94ls0avftiu1fh2j3jne26pcbmo14iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHdO6CbK1A2E6DnYqJ7zupbKMFb3-3oIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414987561319-c94ls0avftiu1fh2j3jne26pcbmo14iq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
